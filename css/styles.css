@@ -170,7 +170,7 @@ p {
 }
 
 #myVideo {
-  max-width: 100%;
+  max-width: auto;
   height: auto;
   position: absolute;
   right: 0;
