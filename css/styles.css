@@ -172,8 +172,8 @@ p {
 #myVideo {
   max-width: auto;
   height: auto;
-  position: absolute;
-  right: 0;
+  position:absolute;
+  right: 5;
   bottom: 0;
   padding-left: 0;
   padding-right: 0;
